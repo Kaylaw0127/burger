@@ -1,0 +1,6 @@
+-- INSERT INTO burgers (name) VALUES ('Southwest');
+-- INSERT INTO burgers (name) VALUES ('Goodmorning');
+-- INSERT INTO burgers (name, devoured) VALUES ('Sylvester', true);
+-- INSERT INTO burgers (name, devoured) VALUES ('Marilyn Manson', true);
+-- INSERT INTO burgers (name, devoured) VALUES ('Joe Biden', true);
+-- INSERT INTO burgers (name) VALUES ('Owens');
