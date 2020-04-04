@@ -1,6 +1,6 @@
--- INSERT INTO burgers (name) VALUES ('Southwest');
--- INSERT INTO burgers (name) VALUES ('Goodmorning');
--- INSERT INTO burgers (name, devoured) VALUES ('Sylvester', true);
--- INSERT INTO burgers (name, devoured) VALUES ('Marilyn Manson', true);
--- INSERT INTO burgers (name, devoured) VALUES ('Joe Biden', true);
--- INSERT INTO burgers (name) VALUES ('Owens');
+INSERT INTO burgers (name) VALUES ('Southwest Burger');
+INSERT INTO burgers (name) VALUES ('Breakfast Burger');
+INSERT INTO burgers (name) VALUES ('Garden Burger');
+INSERT INTO burgers (name) VALUES ('Chili Burger');
+INSERT INTO burgers (name) VALUES ('Banaza Burger');
+INSERT INTO burgers (name) VALUES ('Blue Cheese Burger');
